@@ -2,3 +2,8 @@ body{
     background-color: aliceblue;
     border: 1 solid black;
 }
+p{
+    border: 1 solid green;
+    padding:100px;
+    margin:100px;
+}
